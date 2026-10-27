@@ -1,0 +1,6 @@
+{
+  "name": "APK Link Generator",
+  "description": "Upload APK and files to generate direct download links, QR codes, and shareable URLs with multiple storage providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
